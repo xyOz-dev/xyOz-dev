@@ -1,4 +1,4 @@
-
+<div align="center">
   <p>I'm a developer with an obsession for efficiency. i primarily work on large-scale data harvesting and AI powered systems.</p>
   
   <h2>🚀 Skills</h2>
