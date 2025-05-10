@@ -1,6 +1,4 @@
-<div align="center">
-  <a href="Ω"><img src="http://readme-typing-svg.herokuapp.com?font=VT323&size=90&duration=1300&pause=0700&color=39008a&center=true&random=false&width=1100&height=140&lines=%E2%98%A6++I'm+xyOz++%E2%98%A6;Privacy+doesn't+exist.;Control+is+an+illusion;Welcome." alt="Ω" /></a>
- 
+
   <p>I'm a developer with an obsession for efficiency. i primarily work on large-scale data harvesting and AI powered systems.</p>
   
   <h2>🚀 Skills</h2>
