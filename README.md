@@ -15,6 +15,8 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyOz-dev&theme=dark&background=151515&border=8257E5&stroke=8257E5&ring=8257E5&fire=8257E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8257E5&sideLabels=8257E5&dates=FFFFFF" alt="xyOz's GitHub Streak">
   
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xyOz-dev&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/xyOz-dev)
+
   <p>Feel free to explore my repositories and contributions.</p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=xyOz-dev&color=8257E5&style=flat-square)
