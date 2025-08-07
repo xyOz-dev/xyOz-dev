@@ -3,6 +3,8 @@
   <p>Currently involved in running massive benchmarks on all variations of LLM parameters</p>
   <p>If i took your leaderboard position... Sorry not sorry.</p>
   <p>Saturn Coming Soon...</p>
+  <p>Join The Quiet Place: For Developers</p>
+  <p>https://discord.gg/VSjW36MfYZ</p>
   <h2>🚀 Skills</h2>
   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-8257E5?style=flat-square&logo=postgresql&logoColor=black)
