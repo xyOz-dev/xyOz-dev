@@ -1,6 +1,8 @@
 <div align="center">
   <p>I'm a developer with an obsession for efficiency. i primarily work on large-scale data harvesting and AI powered systems.</p>
-  
+  <p>Currently involved in running massive benchmarks on all variations of LLM parameters</p>
+  <p>If i took your leaderboard position... Sorry not sorry.</p>
+  <p>Saturn Coming Soon...</p>
   <h2>🚀 Skills</h2>
   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-8257E5?style=flat-square&logo=postgresql&logoColor=black)
