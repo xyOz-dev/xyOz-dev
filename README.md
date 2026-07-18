@@ -13,8 +13,6 @@
 
   <h2>📊 GitHub Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=xyOz-dev&show_icons=true&theme=dark&bg_color=151515&text_color=FFFFFF&icon_color=8257E5&title_color=8257E5&hide_border=true" alt="xyOz's GitHub Stats">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyOz-dev&theme=dark&background=151515&border=8257E5&stroke=8257E5&ring=8257E5&fire=8257E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8257E5&sideLabels=8257E5&dates=FFFFFF" alt="xyOz's GitHub Streak">
   
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xyOz-dev&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/xyOz-dev)
